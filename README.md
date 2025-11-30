@@ -34,6 +34,7 @@ Processed data is used for:
 - **Machine Learning Models**: Fraud detection, user behavior insights, personalized recommendations  
 
 ## Thndr Abstracted Data Pipeline
+![Thndr Data Pipeline](diagram.png)
 A simplified view of the pipeline:
 
 App + Market Feeds + Bank APIs  
